@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".venv"
+		},
+		{
+			"path": "backend"
+		},
+		{
+			"path": "backend/node_modules"
+		},
+		{
+			"path": "backend/scripts"
+		},
+		{
+			"path": "backend/src"
+		},
+		{
+			"path": "backend/uploads"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"settings": {}
+}

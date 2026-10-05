@@ -1,0 +1,28 @@
+Frontend:
+- React.js
+- React Router DOM
+- Axios
+- Vite
+- Tailwind CSS
+- PostCSS
+- Autoprefixer
+- npm
+
+Backend:
+- Node.js
+- Express
+- PostgreSQL
+- pg
+- jsonwebtoken (JWT)
+- bcryptjs
+- cors
+- dotenv
+- multer
+- nodemon (dev)
+
+Outras tecnologias / conceitos:
+- API REST
+- Autenticação JWT
+- Upload multipart/form-data
+- Arquivos de configuração .env
+- Script de seed para dados iniciais

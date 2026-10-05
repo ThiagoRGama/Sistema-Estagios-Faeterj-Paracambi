@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../.venv"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../dist"
+		},
+		{
+			"path": "../../node_modules"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../context"
+		},
+		{
+			"path": "../pages"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../node_modules"
+		}
+	],
+	"settings": {}
+}
