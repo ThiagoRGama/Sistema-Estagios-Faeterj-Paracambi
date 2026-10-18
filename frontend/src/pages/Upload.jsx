@@ -242,14 +242,14 @@ const StudentUpload = () => {
                 ^
               </div>
               <p className="mt-4 text-sm font-black text-slate-900">Upload de Arquivo</p>
-              <p className="mt-1 text-xs text-slate-500">PDF, DOCX ou imagem legivel.</p>
+              <p className="mt-1 text-xs text-slate-500">PDF, DOC ou DOCX.</p>
               <label className="mt-5 inline-flex cursor-pointer rounded-md bg-brand-800 px-5 py-2 text-sm font-black text-white">
                 Selecionar
                 <input
                   ref={fileInputRef}
                   type="file"
                   className="sr-only"
-                  accept=".pdf,.doc,.docx,image/*"
+                  accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
                   onChange={handleFileChange}
                 />
               </label>

@@ -612,7 +612,7 @@ const CoordinationProfile = ({
                 <input
                   type="file"
                   className="sr-only"
-                  accept=".pdf,.doc,.docx,image/*"
+                  accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
                   onChange={(event) => setPresentationFile(event.target.files?.[0] || null)}
                 />
               </label>
